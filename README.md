@@ -8,3 +8,5 @@ https://shogohirasawa.github.io/SANMARINO/SANMMARINO.geojson
 https://shogohirasawa.github.io/SANMARINO/marinoTSUNAMI.tif
 <img width="500" alt="image" src="https://github.com/ShogoHirasawa/SANMARINO/assets/29940264/834736bb-8e67-41dc-8942-b968a504d1bb">
 
+> Raster tile data
+https://shogohirasawa.github.io/SANMARINO/xyz/{z}/{x}/{y}.png
